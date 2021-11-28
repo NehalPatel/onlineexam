@@ -1,4 +1,4 @@
-<svg class="w-16 h-16" xmlns="http://www.w3.org/2000/svg" viewBox="0 36 528 456" {{ $attributes }}>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 36 528 456" {{ $attributes }}>
   <linearGradient id="a" x1="50.003%" x2="50.003%" y1="1.385%" y2="101.042%">
     <stop offset="0" stop-color="#bf360c" stop-opacity=".2"/>
     <stop offset="1" stop-color="#bf360c" stop-opacity=".02"/>
